@@ -41,7 +41,13 @@ https://public.tableau.com/app/profile/suki.ragav/viz/HRReport_17340318771500/Pe
 
 https://public.tableau.com/app/profile/suki.ragav/viz/HRReport_17340318771500/EmployeeSatisfaction?publish=yes
 
+![Employee Dashboard](https://github.com/user-attachments/assets/7fcfb3b9-faf2-4301-bdcc-0c6cf7615faf)
 
+![Employee Turnover](https://github.com/user-attachments/assets/41d5181f-8eab-4938-863c-403ad89327ac)
 
+![Hiring Trends](https://github.com/user-attachments/assets/93aa5cee-5537-4f9c-ae7f-a072e8a969ba)
 
+![Performnace Metrics](https://github.com/user-attachments/assets/85e02ba9-ec93-46db-8aac-d130b9a856f7)
+
+![Employee Satisfaction](https://github.com/user-attachments/assets/0ee98976-47b3-4848-b38a-d7200701428b)
 
