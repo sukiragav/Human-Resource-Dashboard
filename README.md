@@ -27,5 +27,21 @@ To create a visually appealing dashboard that provides an overview of the compan
  ## Getting Started
   ```
 - Clone this repository to your local machine by using the following command:
+https://github.com/sukiragav/Human-Resource-Dashboard/blob/main/README.md
+  ```
+## Link to the dataset
+
+https://public.tableau.com/app/profile/suki.ragav/viz/HRReport_17340318771500/EmployeeDashboard?publish=yes
+
+https://public.tableau.com/app/profile/suki.ragav/viz/HRReport_17340318771500/EmployeeTurnover?publish=yes
+
+https://public.tableau.com/app/profile/suki.ragav/viz/HRReport_17340318771500/HiringTrends?publish=yes
+
+https://public.tableau.com/app/profile/suki.ragav/viz/HRReport_17340318771500/PerformnaceMetrics?publish=yes
+
+https://public.tableau.com/app/profile/suki.ragav/viz/HRReport_17340318771500/EmployeeSatisfaction?publish=yes
+
+
+
 
 
